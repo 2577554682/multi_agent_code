@@ -43,7 +43,7 @@
 multi_agent_code/
 ├── agents.py          # 5 个 Agent 节点（产品经理/程序员/审查/测试/修复）
 ├── graph.py           # LangGraph 图构建 + 条件路由
-├── state.py           # 共享状态定义 + 初始化工��
+├── state.py           # 共享状态定义 + 初始化
 ├── main.py            # 入口：驱动图流式执行 + 终端 UI
 ├── config.py          # 集中配置（模型名、温度、最大迭代次数）
 ├── my_llm.py           # LLM 客户端工厂
