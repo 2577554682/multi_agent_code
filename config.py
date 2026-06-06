@@ -1,0 +1,3 @@
+MAX_ITERATIONS = 3
+MODEL_NAME = "openai/gpt-oss-20b"
+TEMPERATURE = 0.4
